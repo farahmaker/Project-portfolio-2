@@ -1,4 +1,16 @@
 # Project-portfolio-2
+<!DOCTYPE html>
+    <html>
+    <head>
+        <title>Linking JavaScript</title>
+    </head>
+    <body>
+        <h1>My Webpage</h1>
+        <button onclick="myFunction()">Click me</button>
+
+        <script src="script.js"></script>
+    </body>
+    </html>
 
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
